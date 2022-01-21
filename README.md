@@ -1,2 +1,1 @@
-# fullStack_Proj_Test
-Created with CodeSandbox
+## Run `npm install` on each folders
